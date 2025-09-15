@@ -1,4 +1,1 @@
-from datetime import datetime
-import pytz
-beijing_timezone = pytz.timezone('Asia/Shanghai')
-daaaaa=datetime(2025, 9,25, tzinfo=beijing_timezone)
+aaaaaaa = 'KApAlP2/0VaRERfP1Yk7j1aR6ZHQRFgJNo863YsOnElT1eOnCgkaCLxi/p0nDqEQk3yCQ+i1HsD18LDKwAOOmZb/DZnPGz57aEqDRNPtNb9n+zbUiBA6SDEPT0fF65xS2xN7AUgb/mReSpEs/DdYLVQox0k4hA7ST6DWI4QOUpluAbic17rYE3yY3DSLLfXDjgmavhzvUPBl8W496YCY8RO1/R4mMVrhWR8kHGrgQiSYeTpGq3nUkPFTJ3XVRtH4fzxaw0EoG2BYc41fZELQL4KR26JbrVVWmpKllM30j4SxV5AS3VE0AYcenZtI/EJF'
